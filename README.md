@@ -1,1 +1,41 @@
-# Data_Structure
+# Liner_List
+- SqList
+    - traversal
+    - insert
+    - delete
+    - find
+- SeqList
+    - resize
+    - traversal
+    - insert
+    - delete
+    - find
+- LinkList
+    - init
+    - traversal
+    - insert
+    - insert_next
+    - insert_prior
+    - insert_head
+    - insert_tail
+    - delete_index
+    - delete_node
+    - find_index
+- DLinkList
+    - init
+    - traversal
+    - insert_next
+    - insert_prior
+    - delete_next
+    - delete_prior
+    - insert_head
+- CLinkList
+    - init
+    - traversal
+    - init
+    - traversal
+- SLinkList
+    - init
+    - traversal
+    - insert
+    - delete
